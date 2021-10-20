@@ -1,0 +1,15 @@
+C:\Users\SAILS-DM149\source\repos\WebApiTask1\WebApiTask1.DataAccess\bin\Debug\net5.0\WebApiTask1.DataAccess.deps.json
+C:\Users\SAILS-DM149\source\repos\WebApiTask1\WebApiTask1.DataAccess\bin\Debug\net5.0\WebApiTask1.DataAccess.dll
+C:\Users\SAILS-DM149\source\repos\WebApiTask1\WebApiTask1.DataAccess\bin\Debug\net5.0\ref\WebApiTask1.DataAccess.dll
+C:\Users\SAILS-DM149\source\repos\WebApiTask1\WebApiTask1.DataAccess\bin\Debug\net5.0\WebApiTask1.DataAccess.pdb
+C:\Users\SAILS-DM149\source\repos\WebApiTask1\WebApiTask1.DataAccess\obj\Debug\net5.0\WebApiTask1.DataAccess.csproj.AssemblyReference.cache
+C:\Users\SAILS-DM149\source\repos\WebApiTask1\WebApiTask1.DataAccess\obj\Debug\net5.0\WebApiTask1.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAILS-DM149\source\repos\WebApiTask1\WebApiTask1.DataAccess\obj\Debug\net5.0\WebApiTask1.DataAccess.AssemblyInfoInputs.cache
+C:\Users\SAILS-DM149\source\repos\WebApiTask1\WebApiTask1.DataAccess\obj\Debug\net5.0\WebApiTask1.DataAccess.AssemblyInfo.cs
+C:\Users\SAILS-DM149\source\repos\WebApiTask1\WebApiTask1.DataAccess\obj\Debug\net5.0\WebApiTask1.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\SAILS-DM149\source\repos\WebApiTask1\WebApiTask1.DataAccess\obj\Debug\net5.0\WebApiTask1.DataAccess.csproj.CopyComplete
+C:\Users\SAILS-DM149\source\repos\WebApiTask1\WebApiTask1.DataAccess\obj\Debug\net5.0\WebApiTask1.DataAccess.dll
+C:\Users\SAILS-DM149\source\repos\WebApiTask1\WebApiTask1.DataAccess\obj\Debug\net5.0\ref\WebApiTask1.DataAccess.dll
+C:\Users\SAILS-DM149\source\repos\WebApiTask1\WebApiTask1.DataAccess\obj\Debug\net5.0\WebApiTask1.DataAccess.pdb
+C:\Users\SAILS-DM149\source\repos\WebApiTask1\WebApiTask1.DataAccess\bin\Debug\net5.0\WebApiTask1.Dapper.dll
+C:\Users\SAILS-DM149\source\repos\WebApiTask1\WebApiTask1.DataAccess\bin\Debug\net5.0\WebApiTask1.Dapper.pdb

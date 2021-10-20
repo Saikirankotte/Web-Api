@@ -1,0 +1,12 @@
+C:\Users\SAILS-DM149\source\repos\WebApiTask1\WebApiTask1.Domain\bin\Debug\net5.0\WebApiTask1.Dapper.deps.json
+C:\Users\SAILS-DM149\source\repos\WebApiTask1\WebApiTask1.Domain\bin\Debug\net5.0\WebApiTask1.Dapper.dll
+C:\Users\SAILS-DM149\source\repos\WebApiTask1\WebApiTask1.Domain\bin\Debug\net5.0\ref\WebApiTask1.Dapper.dll
+C:\Users\SAILS-DM149\source\repos\WebApiTask1\WebApiTask1.Domain\bin\Debug\net5.0\WebApiTask1.Dapper.pdb
+C:\Users\SAILS-DM149\source\repos\WebApiTask1\WebApiTask1.Domain\obj\Debug\net5.0\WebApiTask1.Dapper.csproj.AssemblyReference.cache
+C:\Users\SAILS-DM149\source\repos\WebApiTask1\WebApiTask1.Domain\obj\Debug\net5.0\WebApiTask1.Dapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAILS-DM149\source\repos\WebApiTask1\WebApiTask1.Domain\obj\Debug\net5.0\WebApiTask1.Dapper.AssemblyInfoInputs.cache
+C:\Users\SAILS-DM149\source\repos\WebApiTask1\WebApiTask1.Domain\obj\Debug\net5.0\WebApiTask1.Dapper.AssemblyInfo.cs
+C:\Users\SAILS-DM149\source\repos\WebApiTask1\WebApiTask1.Domain\obj\Debug\net5.0\WebApiTask1.Dapper.csproj.CoreCompileInputs.cache
+C:\Users\SAILS-DM149\source\repos\WebApiTask1\WebApiTask1.Domain\obj\Debug\net5.0\WebApiTask1.Dapper.dll
+C:\Users\SAILS-DM149\source\repos\WebApiTask1\WebApiTask1.Domain\obj\Debug\net5.0\ref\WebApiTask1.Dapper.dll
+C:\Users\SAILS-DM149\source\repos\WebApiTask1\WebApiTask1.Domain\obj\Debug\net5.0\WebApiTask1.Dapper.pdb
